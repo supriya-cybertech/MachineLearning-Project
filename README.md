@@ -27,7 +27,6 @@ Diabetes is a global health concern, and timely prediction can help in preventio
 
 ## 🏗️ Project Architecture
 
-```text
              ┌────────────────────┐
              │    Raw Dataset     │
              │ (PIMA Indians DB)  │
