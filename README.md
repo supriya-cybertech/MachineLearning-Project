@@ -25,6 +25,18 @@ Diabetes is a global health concern, and timely prediction can help in preventio
 
 ---
 
+## 📂 Dataset
+The "diabetes.csv" file is stored in the "Add diabetes dataset" folder.
+
+### Dataset Description
+This dataset has patient health info used to predict diabetes.
+
+*Features like Glucose, BMI, and Age are important indicators.*
+> Purpose: Train ML models to predict diabetes and understand key health factors.
+
+...
+
+
 ## 🏗️ Project Architecture
 
              ┌────────────────────┐
