@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="flow chart for diabetes predictive modal" src="https://github.com/user-attachments/assets/008207d8-4417-4730-a715-297dad1f2707" />
+<img width="1536" height="1024" alt="flow chart for diabetes predictive modal" src="https://github.com/user-attachments/assets/9bb19e23-003b-46cd-b8a8-85956663de9a" />
 # MachineLearning-Project
 
 # 🩺 Diabetes Prediction Model
